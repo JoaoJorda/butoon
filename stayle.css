@@ -1,0 +1,10 @@
+button{
+    border-radius: 10px;
+    background-color: green;
+    color: blue;
+}
+
+button:hover{
+    background-color: yellow;
+    color: aquamarine;
+}
